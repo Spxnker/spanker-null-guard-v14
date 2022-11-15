@@ -1,2 +1,4 @@
-# spanker-null-guard-v14
-spanker-null-guard-v14 baya uzun bir aradan sonra tekrardan bir bot paylaşıyorum
+# SPANKER - NULL
+
+Çok uzun süre sonra yeniden karşınızdayız.
+nulla birlikte yaptığımız botun eksiklerini toparlayıp paylaşacağım.
